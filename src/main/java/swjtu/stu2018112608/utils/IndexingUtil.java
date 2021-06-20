@@ -190,4 +190,7 @@ public class IndexingUtil {
         indexReader.close();
         updateSearchResultSet();
     }
+
+
+
 }
